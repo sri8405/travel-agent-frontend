@@ -43,3 +43,5 @@ logs/
 
 # Nested git metadata (keep monorepo root as single repo)
 **/.git/
+
+.venv
